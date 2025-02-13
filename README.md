@@ -1,1 +1,3 @@
-# CurrencyConverter
+The Currency Converter is a Python-based application that provides real-time conversion between multiple currencies. This tool fetches live exchange rates using ExchangeRate-API and allows users to convert amounts between popular currencies like USD, EUR, INR, GBP, AUD, and more. The application is built with Tkinter for the graphical interface, making it user-friendly and intuitive. Users can enter the amount, select the currencies they want to convert, and instantly view the result. The real-time data retrieval from the API ensures that the conversion is always accurate and up-to-date.
+
+This tool supports multiple currencies and provides a seamless experience for travelers, businesses, and anyone dealing with foreign currencies. The application’s simple yet efficient design makes it an excellent tool for quick currency conversions with live rates.
